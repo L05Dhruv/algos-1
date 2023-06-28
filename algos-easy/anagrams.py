@@ -13,8 +13,6 @@ def anagrams(s1, s2):
 
 
 
-
-
 # # TEST CASES
 anagrams('restful', 'fluster') # -> True
 # anagrams('cats', 'tocs') # -> False
